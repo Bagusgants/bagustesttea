@@ -1,0 +1,12 @@
+{
+  "name": "pemeriksa-palindrom-sederhana",
+  "version": "1.0.0",
+  "description": "Project open source ini menyediakan fungsi JavaScript untuk memeriksa apakah suatu string adalah palindrom.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
